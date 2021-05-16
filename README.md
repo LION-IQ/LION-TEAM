@@ -1,124 +1,126 @@
-<h3 align="center">𝚃𝙷𝙴 𝙲𝙻𝙾𝙽𝙴 𝙾𝙵</h3>
-<h2 align="center"> <a href="https://github.com/sameerpanthi/EAGLI-MAFIA-USERBOT">🔥 𝚃𝙷𝙴 𝙴𝙰𝙶𝙻𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃 🔥</a></h2>
+
+<h2 align="center"><b>Owner: <a href="https://telegram.dog/krish1303y">B乛LAC丨ᗩᑎᗰᗝᒪ ᔕᖇIᐯᗩᔕ丅ᗩᐯᗩ 🇮🇳 ⁪⁬⁮⁮⁮#ƈʏɮɛʀlєgєnds</a></b></h2>
+<br>
+<p align="center"><a href="https://t.me/lightningsupport"><img src="https://telegra.ph/file/07d55d71944a852ac6d5e.jpg"></a></p> 
+</p>
+<h1>BLACK LIGHTNING</h1>
+<b>A Powerful, Smart And Simple Userbot In Telethon.</b>
+<br>
+<br>
+
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/KeinShin/Black-Lightning)
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning#copyright--license)
+[![Stars](https://img.shields.io/github/stars/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/stargazers)
+[![Forks](https://img.shields.io/github/forks/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/network/members)
+[![Issues Open](https://img.shields.io/github/issues/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/issues)
+[![Issues Closed](https://img.shields.io/github/issues-closed/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/issues?q=is:closed)
+[![PR Open](https://img.shields.io/github/issues-pr/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/pulls)
+[![PR Closed](https://img.shields.io/github/issues-pr-closed/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/KeinShin/Black-Lightning/pulls?q=is:closed)
+![Repo Size](https://img.shields.io/github/repo-size/KeinShin/Black-Lightning?style=flat-square)
+<br>
 
 
-<h1 align="center">⚡ 𝚃𝙷𝙴 𝙴𝙰𝙶𝙻𝙴 𝙼𝙰𝙵𝙸𝙰 𝙱𝙾𝚃 ⚡</h1>
+# Credits 
+## This is A Remix Bot Of Many UserBot.
+* [DARKCOBRA](https://github.com/DARK-COBRA/DARKCOBRA)
+* [FridayUserBot](https://github.com/DevsExpo/FridayUserbot)
+* [Jarvisuserbot](https://github.com/Jarvis-Works/JarvisUserbot)
+* [CatUserBot](https://github.com/sandy1709/catuserbot)
+* [TeleBot](https://github.com/xditya/TeleBot)
+* [Uniborg](https://github.com/SpEcHiDe/UniBorg)
+* [CipherX1-ops](https://t.me/CipherX1-ops)
+* [Hellboi-Danish](https://t.me/Hellboi-Danish)
 
 
-[![EAGLE MAFIA LOGO](https://telegra.ph/file/385f6edbc9dd183e8da0b.jpg)](https://t.me/Owner_of_team_eagle_mafia)
+# Support
+<a href="https://t.me/blacklightningot"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/lightningsupport"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
+## Total Commands = CMDS Are More Than 470 :D
+# About ɮʟǟƈᏦ ʟɨɢɦƭռɨռɢ
+
+1. Can Do Many This Such As Download ANy Video From Youtube and Other Sites
+
+2. Many Things For Adult Tho....
+
+3. Many Cool CMDS To Trick Your Friends
+
+4. Can Give Mast To Any Img Such As .Krish Mask,Gold Mask, ManyOther
+
+5. And More CMDS Just Deploy It 
+
+6. Can Spam Over 9999 Words And Can Spam Images And Medias
+
+7. Its Has Many Plugins To Trick Your Friends 
+
+8. Many  Animated Filters Plugins Like ```Rock``` ```Hello```  ```Heart```  ```Adults``` Filters Like ``Sax`` etc....
+
+9. Can Tell You About The Person when he/she Will Enter In Ur Grup That He Is Spammer And Will Ban him/her automatically
+
+10. Can Tell You Any State or COuntry Coivd Cases
+
+11. Can Give u Cricket Scores (Credits Given In Plugins)
+
+12. And If You Are Goinn To Sleep Do ```.night``` The Bot WIll Auto Reply Messages With A Good Night Message ( Some Thing Like Afk But Different)
+
+13. Afk Feature When You Are Goin Offline
+
+14. And If You Are Goinn For Study  Do ```.study``` The Bot WIll Auto Reply Messages With A Good Study Message ( Some Thing Like Afk But Different)
+
+15. And 5 types Of Hack CMDs
+
+16. And Many More CMDS 
 
 
-<h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
+
+## Note-: 
+
+This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.......
+
+# Requirements 
+* Python 3.8 or Higher
+* Telegram [API Keys](https://my.telegram.org/apps)
+* String [Gernate from here](https://repl.it/@Anmol10H/Lightning-Repl#main.py)
 
 
-# FORK AT YOUR OWN RISK
+# How To
 
-<details>
+<a href="https://youtu.be/xfHcm_e92eQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
-  <summary> • INSTALLING • </summary>
+<a href="https://app.gitbook.com/@poxsisofficial/s/blackBlack Lightning /"><img src="https://img.shields.io/badge/Read%20More-GitBook-red.svg"></a>
 
-### The Easy Way
+# Deploy
 
-<h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LION-IQ/LION-TEAM)
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsameerpanthi%2FEAGLE-MAFIA-BOT&template=https%3A%2F%2Fgithub.com%2Fsameerpanthi%2FEAGLE-MAFIA-BOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+# String
 
-<h2 align="center"> <a href="https://github.com/sameerpanthi/EAGLE-MAFIA-BOT">⚡ 𝚃𝙷𝙴 𝙴𝙰𝙶𝙻𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃 ⚡</a></h2>
+[![Run on Repl.it](https://repl.it/badge/github/KeinShin/Black-Lightning&theme=midnight-purple)](https://repl.it/@Anmol10H/Lightning-Repl#main.py)
 
-</details>
+# The Normal Way
 
-<details>
-  <summary> <h4>Credits 🏅</h4> </summary>
-
-• [JaaduBot](https://github.com/Amberyt/JaaduBot)
-
-• [Uniborg](https://github.com/spechide/uniborg)
-
-• [D3_KRISH](https://github.com/D3KRISH)
-
-</details>
-<details>
-  <summary> <h4>Official Supports ✅</h4> </summary>
-
+Simply clone the repository and run the main file:
+```sh
+git clone https://github/KienShin/Black-Lightning.git
+cd Black Lightning 
+virtualenv -p /usr/bin/python3 venv
+. ./venv/bin/activate
+pip install -r requirements.txt
+# <Create local_config.py with variables as given below>
+python3 -m Black-Lightning
 ```
-Get help regarding setting up 
-your 𝙴𝙰𝙶𝙻𝙴 𝙼𝙰𝙵𝙸𝙰 𝙱𝙾𝚃 in our official 
-support Group and get updates
-notifications in Update Channel.
+
+
+
+
+# Mandatory Vars
 ```
+[+] Only two of the environment variables are mandatory.
 
-<a href="https://t.me/eagle_with_sucker"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+[+] This is because of telethon.errors.rpc_error_list.ApiIdPublishedFloodError
 
-</details>
-
-<h1 align="center">⚙️ Set-Up ⚙️</h1>
-
-<details>
-  <summary> <h2>Generate String Session</h2> </summary>
-
-- Termux
-    - Clone `git clone https://github.com/sameerpanthi/EAGLE-MAFIA-BOT.git`
-    - Then Do  `cd EAGLE-MAFIA-BOT`
-    - Run String Generator By
-           `bash string.sh`
-    - Then Fill The Required Details.
-    - API ID, API HASH, PHONE NUMBER (WITH COUNTRY CODE)
- 
-- Repl Run
-    - Click [Here](https://replit.com/@H1M4N5HU0P/MAFIABOT#main.py) to open Repl run.
-    - Click On Green Play Button.
-    - Wait for a while then fill the details.
-    - String will be saved in your Saved Message.
-</details>
-
-<details>
-  <summary> <h3>HOSTING 😉</h3> </summary>
-
-- Choose A Hosting Site. And fill the mandatory vars.
-
-## Deploys
-
-- You Can Deploy it on 
-    - [Zeet](https://zeet.co/new)
-    - [Uffizzi](https://uffizzi.com)
-    - Any Other VPS.
-    - No support for Termux Yet.
-
-## Mandatory Vars
-
-- Some of the environment variables are mandatory.
-- These are listed below.
-    - `APP_ID`:   You can get this value from [here](https://my.telegram.org)
-    - `API_HASH`:   You can get this value from [here](https://my.telegram.org)
-    - `ENV`:   `ANYTHING`
-    - `STRING_SESSION`:   You can get this value from running `python3 string_session.py` 
-    - `LOG_GROUP`:   Make a Channel Or Group and get it's id.
-    - `DATABASE_URL`:   Make a database on elephant sql and paste the url.
-    - `DB_URI`:   Same as `DATABASE_URL`
-    - `BOT_TOKEN`:   Make a Bot from [Botfather](https://t.me/botfather) and paste the bot token here.
-    - `BOT_USERNAME`:   Paste the Username of bot that you made from [BotFather](https://t.me/botfather).
-- The userbot will not work without setting the mandatory vars.
-
-</details>
-
-<details>
-  <summary> <h4>• LICENSE •</h4> </summary>
-
-![](https://www.gnu.org/graphics/gplv3-or-later.png)
-
-Copyright (C) 2021 sameerpanthi, D3KRISH
-
-Poject [𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃](https://github.com/sameerpanthi/EAGLE-MAFIA-BOT) is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program. If not, see <https://www.gnu.org/licenses/>.
-
-</details>
+    [-] APP_ID:   You can get this value from https://my.telegram.org
+    [-] API_HASH :   You can get this value from https://my.telegram.org
+    
+[+] The Lightning Bot will not work without setting the mandatory vars.
+```
